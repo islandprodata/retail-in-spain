@@ -1,0 +1,501 @@
+country,founded,id,industry,linkedin_url,locality,name,region,size,website
+spain,,uMSpbOtJJoIQzSuay0Pg6QxgPJMu,retail,linkedin.com/company/kamama,almería,kamama,andalusia,1-10,kamama.es
+spain,,8G5px85zFFcr4o6Oz73O8QxC7ODG,retail,linkedin.com/company/dragón-rojo,,dragón rojo,community of madrid,1-10,
+spain,,8nJHmzRdogps5qBMB36gOgXTHA4M,retail,linkedin.com/company/estirpe-imperial,tres cantos,estirpe imperial,community of madrid,1-10,estirpeimperial.com
+spain,,br4u3FACyVRp0mtutfErBQ2iszzl,retail,linkedin.com/company/cafeterapia-sl,barcelona,cafeterapia sl,catalonia,11-50,
+spain,,cTFbDfD0qvA1iT0C3rDm5wLFSTFD,retail,linkedin.com/company/ferretería-ferretodo-los-majuelos,el sobradillo,ferretería ferretodo los majuelos,canary islands,1-10,
+spain,,IzoHW5Sr1KkBBFYvKvNCVAVsfkui,retail,linkedin.com/company/mueble-infantil-sl,pobra do caramiñal,mueble infantil sl,galicia,11-50,
+spain,,7fCBsLoEVvEZdhL06bepZgt5AF6W,retail,linkedin.com/company/suministros-agrobeni,benifayó,suministros agrobeni,valencian community,1-10,agrobeni.es
+spain,,evgYeifhkHIfIMEqN6soYgVgo2dj,retail,linkedin.com/company/discem-siglo-xxi-sl,saldaña de burgos,discem siglo xxi sl,castilla and león,1-10,
+spain,,X27WO5pTjMJ6O8CcXW802QxKXAvP,retail,linkedin.com/company/maier-navarra-sl,,maier navarra sl,,51-200,
+spain,,3st4gBw52gNDUpiGXU9GzACdYFSQ,retail,linkedin.com/company/neumáticos-ariza,málaga,neumáticos ariza,andalusia,1-10,neumaticosariza.es
+spain,,cITycGHggtFNDgJ10U9N1Q9NgiNY,retail,linkedin.com/company/farmacia-el-vedat,torrent,farmacia el vedat,catalonia,1-10,farmaciaelvedat.com
+spain,,DUaihnp709TGsX72bYmHQgodsYpV,retail,linkedin.com/company/agropecuarios-blasher-sl,granada,agropecuarios blasher sl,andalusia,11-50,hervet.es
+spain,,EkuBnhPtAkg80wBCuGf6SAbAjOvO,retail,linkedin.com/company/autos-bueno-e-hijos-sl,,autos bueno e hijos sl,,11-50,autosbueno.es
+spain,,SpaMYngzyZNnx0ky5R7H2QICnstT,retail,linkedin.com/company/max-bazar,,max bazar,valencian community,1-10,
+spain,,vxmiEiy0U6bpBcNhX4xLQgJ5y1cS,retail,linkedin.com/company/suviflor,,suviflor,valencian community,1-10,
+spain,,q78XfVxWZgy6sBhG71uYKAIHbxU7,retail,linkedin.com/company/jose-antonio-alonso-ocio-sl,,jose antonio alonso ocio sl,,11-50,
+spain,2006,hnCDmbSZ3oj1Mm6f9lUaLgzrM7nm,retail,linkedin.com/company/sluiz.,santa gertrudis,sluiz.,balearic islands,51-200,sluiz.com
+spain,,SakCoFjBdqI70fWTNorOQgG70OEh,retail,linkedin.com/company/almerialva-sl,huércal de almería,almerialva sl,andalusia,11-50,concesionarioshyundai.com
+spain,,AH6OZubBknwbhh1AV2lRKg8SzZwE,retail,linkedin.com/company/óptica-la-palma,la palma del condado,óptica la palma,andalusia,1-10,opticalapalma.com
+spain,,RUMvQeIQanYFVTcfpRDaBA9YKsR7,retail,linkedin.com/company/electrodomesticos-san-gil,ávila,electrodomesticos san gil,castilla and león,1-10,
+spain,,fJ5Bt7Zq5ZIcy6k5zYqQsgO2WTuL,retail,linkedin.com/company/lunic-style-sl,vigo,lunic style sl,galicia,11-50,opticalunic.com
+spain,,wRn5G92nLn1it5raMhDNgQRoGa0x,retail,linkedin.com/company/recamex-port-sl,el prat de llobregat,recamex port sl,catalonia,11-50,
+spain,,OAU8NGGo5gqynewZ36AziAeR4pWM,retail,linkedin.com/company/motos-tato-sl,palencia,motos tato sl,castilla and león,11-50,motostato.com
+spain,,qLLkB15ypdne9XlBJIhsOwZQTbxZ,retail,linkedin.com/company/mfa-petroleum-company,madrid,mfa petroleum company,community of madrid,1-10,
+spain,,FANGRyhUpgweF1ikCFOpAAIJyf0h,retail,linkedin.com/company/qnk-mia-sl,reus,qnk mia sl,catalonia,1-10,
+spain,,NaCODcbHByHqaRGfiNAoRAuHHhxX,retail,linkedin.com/company/outlet-andalucia-sl,,outlet andalucia sl,,11-50,
+spain,,OBiCnCnJf9kSsGGmbI0IgQz6RqAG,retail,linkedin.com/company/peletería-rodríguez,zaragoza,peletería rodríguez,aragon,1-10,peleteriarodriguez.com
+spain,,YFZsfObve1xpIvoGae8qCQyXUGgk,retail,linkedin.com/company/julgin-alicante-sl,alicante,julgin alicante sl,valencian community,1-10,
+spain,,7vOQEuVJ4u6PUPJG8HTDTgtHiqHB,retail,linkedin.com/company/ortoprime®,moraleja,ortoprime®,extremadura,1-10,ortoprime.es
+spain,,0tXWoVYwFChWLrFR7WXVGQoMKDZn,retail,linkedin.com/company/gestion-de-proyectos-informaticos-gespro-sa,madrid,gestion de proyectos informaticos gespro sa,community of madrid,11-50,
+spain,,VS3ll7QemC5rW9YZq2BsawZgIcda,retail,linkedin.com/company/mafe-soluciones-sl,alcalá de henares,mafe soluciones sl,community of madrid,1-10,
+spain,,KgCRGBQCFVJLHm26kZbyJQfhJofz,retail,linkedin.com/company/librería-alonso-quijano,alcobendas,librería alonso quijano,community of madrid,1-10,libreriaalonsoquijano.com
+spain,,cN66FRuh1NlvZY0B0d0rLghAwScL,retail,linkedin.com/company/hmsinformatica,valladolid,hmsinformatica,castilla and león,1-10,hmsinformatica.com
+spain,,ud0MWNnWFYjZvC2BmetChQn3IZtO,retail,linkedin.com/company/cuchillería-navarro,donostia,cuchillería navarro,basque country,1-10,cuchillerianavarro.com
+spain,2008,jUCUtjrO9PZXbALJxgQ4hgI2gv0s,retail,linkedin.com/company/raccoongames-tienda,sevilla,raccoon games,andalusia,1-10,raccoongames.es
+spain,2004,UtPWGtcz6NkVPUyCOJ6DYwWEoDUZ,retail,linkedin.com/company/glm-commerce,burgos,glm commerce s.l.,castilla and león,11-50,greenlandmx.com
+spain,,caGpGemDZkCWkUIEK1obRQA46mA8,retail,linkedin.com/company/cosnatur-sl,,cosnatur sl,,11-50,
+spain,,SmnOIgZIOIY9xbtc9BMJpAxtgzhy,retail,linkedin.com/company/juegos-aleo---juegos-educativos,paradas,juegos aleo - juegos educativos,andalusia,1-10,juegosaleo.com
+spain,,B8ostIl57ZTPcBeFxqnd2A7D9VTx,retail,linkedin.com/company/bosch-sistemas-de-frenado-sl,granollers,bosch sistemas de frenado sl,catalonia,1001-5000,robert-bosch-espana.es
+spain,,KA8rpCxYGjPOGkjZHL3uWgW4yiHD,retail,linkedin.com/company/luxus-import-wagen-sl,arbós,luxus import wagen sl,catalonia,1-10,
+spain,,JzihYpvJxmTEMz5UeZX1tAFdGu4h,retail,linkedin.com/company/21-botons-sl,barcelona,21 botons sl,catalonia,11-50,
+spain,,yVumRCRvJbWmEHBXLmWhMAltod1h,retail,linkedin.com/company/auto-reparaciones-sergio-sl,salobreña,auto reparaciones sergio sl,andalusia,1-10,
+spain,1992,Oy3gF6Bt1HFDY9CGbb8npwwWb1WJ,retail,linkedin.com/company/ali-bebe,coruña,ali bebe,canary islands,11-50,alibebe.es
+spain,,pHkvdYwBSMxBiBlcCCHYUAb11Ykb,retail,linkedin.com/company/marina-codina,cervera,marina codina,catalonia,1-10,marinacodina.com
+spain,,WD3TIqK7TnIw9RntSZF49QJm5Xol,retail,linkedin.com/company/makingtennis,coruña,makingtennis,canary islands,1-10,makingtennis.com
+spain,,gl0zENs2h5XcpOGLMniI5ggODf9O,retail,linkedin.com/company/italica-car-sa,gines,italica car sa,andalusia,11-50,italicacar.es
+spain,,AZVCLXtwigUVHhv5sTwvnQu0yCtJ,retail,linkedin.com/company/farmacia-las-rozas,las rozas de madrid,farmacia las rozas,community of madrid,1-10,lasrozasfarmacia-com4.webnode.es
+spain,,lmnerzMR4Egxhf9X1yTGuwyOLjnL,retail,linkedin.com/company/fravhes-jeans.-calle-de-lain,burgos,fravhes jeans. calle de lain,castilla and león,1-10,fravhesjeans.es
+spain,,CRWqZXHCsZMTMuUKzqY6HAxrH8mf,retail,linkedin.com/company/cuatrotecnia-electronica-sl,coruña,cuatrotecnia electronica sl,canary islands,1-10,
+spain,,62QAwfuowT2TBeOxT51JZQBu7XZk,retail,linkedin.com/company/floristeria-emi-sl,barcelona,floristeria emi sl,catalonia,11-50,floristeriaemi.com
+spain,,dRoGlwoZm2wmjunloEXggwHWk7jO,retail,linkedin.com/company/burcol-arroces-legumbres-y-otros-superalimentos,cabanillas del campo,"burcol, arroces, legumbres y otros superalimentos",castilla-la mancha,1-10,
+spain,,LqnG0eikGPMPPIJxZK8a5gLYt2T9,retail,linkedin.com/company/phone-gallery-sbd-sl,sabadell,phone gallery sbd sl,catalonia,1-10,
+spain,,hrQ6gSGzTFjPl1tj7alwBwu5NtjH,retail,linkedin.com/company/koala-boutique,beniel,koala boutique,region of murcia,1-10,koalaboutique.net
+spain,,JjK1IBkIIszJyIzbOJ6D3AvQR7AC,retail,linkedin.com/company/peluquería-canina-saray,torrejón de ardoz,peluquería canina saray,community of madrid,1-10,peluqueriacaninasaray.es
+spain,,D1i2KhyGvGghyflVrqCtWASbaOKM,retail,linkedin.com/company/papelería-la-plaza,zaragoza,papelería la plaza,aragon,1-10,laplazapapeleria.blogspot.com.es
+spain,,FdwPKchBz4vr1PteN8CPxA4viDbF,retail,linkedin.com/company/incosur-ventas-y-patrimonios-sl,marbella,incosur ventas y patrimonios sl,andalusia,11-50,
+spain,,joW83zYG3zCuKjTdCdCVKAzcdpWm,retail,linkedin.com/company/farmàcia-riera-rivière,san cugat del vallés,farmàcia riera rivière,catalonia,1-10,farmaciarierariviere.com
+spain,,JcQSGw7nZTIaNaPoy2nwkA9uJAAA,retail,linkedin.com/company/artycult,santa cruz,artycult,canary islands,1-10,artycult.com
+spain,,bMeQk6FjBMNgJK79D35muAEDorSm,retail,linkedin.com/company/forn-i-pastisseria-medina,el verger,forn i pastisseria medina,valencian community,1-10,panmedina.es
+spain,,X3JgtpcQBk7GowrTzBglUwQSUA0f,retail,linkedin.com/company/san-isidro-motor-sl,,san isidro motor sl,,1-10,
+spain,,rofYgHVeWGYmPBFe7IIhhwg1yEtc,retail,linkedin.com/company/galerias-torras-sl,san cugat del vallés,galerias torras sl,catalonia,1-10,
+spain,,g0BeT4V3tyR0kNDyPIT0CwJXxO4i,retail,linkedin.com/company/lencería-cris,santiago de compostela,lencería cris,galicia,1-10,lenceriacris.com
+spain,,FSFpgespE8nF8OORa7r4SACbDFyt,retail,linkedin.com/company/cronique-esport-sl,cardedeu,cronique esport sl,catalonia,11-50,
+spain,,FqukVfv12kJ29itWB5WBhQmWoaeY,retail,linkedin.com/company/intervalious-company-sl,las palmas,intervalious company sl,canary islands,1-10,
+spain,,Kh4da1R5bhbObjtYrrOnbgPvf0Lw,retail,linkedin.com/company/drive-or-die-sl,deltebre,drive or die sl,catalonia,1-10,
+spain,1985,yB5KVvVwHis731cQAOdDkgimglM1,retail,linkedin.com/company/agi-espa-a,españa,agi españa,community of madrid,1-10,agiespana.es
+spain,,joQdWqgxDBNNWOPt9gORFQNbXDhx,retail,linkedin.com/company/bayón,valladolid,bayón,castilla and león,1-10,
+spain,,ByCkFy0IfNHajgwxX7mbqg6V95B8,retail,linkedin.com/company/irudent-digital-sl,bilbao,irudent digital sl,basque country,1-10,
+spain,,gACeQbbBgZTkHkhn3lU8IQzQgD6M,retail,linkedin.com/company/patchwork-estudio,camprodón,patchwork estudio,catalonia,1-10,patchworkestudio.com
+spain,,EBiU3XyzJsZu7Sy04BdiTQDOkT8K,retail,linkedin.com/company/miguelectro,adeje,miguelectro,canary islands,1-10,
+spain,,DoDjYGGh0P6QCrPaolxIawadZQ4z,retail,linkedin.com/company/soulprint,sevilla,soulprint,andalusia,1-10,soulprint.es
+spain,,ChPD9G2K1JBCWVNfqSCBLQZPyNnZ,retail,linkedin.com/company/movimiento-deportivo-sl,,movimiento deportivo sl,,11-50,
+spain,,q8gOExfNN8LPWCoxS4jPTgCd5Y2Z,retail,linkedin.com/company/el-llegat-de-la-vall-sl,barcelona,el llegat de la vall sl,catalonia,1-10,lacruzdesarais.com
+spain,,hBzZmtJW1GJAwKCQ6ObPBAgCzgEG,retail,linkedin.com/company/documentacion-e-imagen-del-noroeste-sl,pontevedra,documentacion e imagen del noroeste sl,galicia,11-50,
+spain,2018,2ICOV0zs4haqy3UICjrXOQgrAlZf,retail,linkedin.com/company/womaland,humanes de madrid,womaland,community of madrid,1-10,womaland.com
+spain,,vk0ALodan4u90kxIPSkBigzZv9OZ,retail,linkedin.com/company/val-do-ulla-horta-sl,vedra,val do ulla horta sl,galicia,1-10,
+spain,,6XZm3HQ8NMbXHCIyeMB0Ogi7Cl8z,retail,linkedin.com/company/variedades-en-aguimes-sl,las palmas,variedades en aguimes sl,canary islands,11-50,
+spain,,XrHs0TBXSUbYBXaxqyXycQThaFFJ,retail,linkedin.com/company/la-capota,guadalajara,la capota,castilla-la mancha,1-10,
+spain,,NRrzBgFrB52BSrfD6n674gy3POk5,retail,linkedin.com/company/motominut,barcelona,motominut,catalonia,1-10,motominut.es
+spain,,kTlOmY2GW7wZ4eeilBDqswJFRQY7,retail,linkedin.com/company/jabugo-tapas-sl,poligono industrial,jabugo tapas sl,galicia,11-50,
+spain,,gC9bzr6oyaB76tbCVC42VAMgijzv,retail,linkedin.com/company/decoraciones-rodriguez-duran-sl,portugalete,decoraciones rodriguez duran sl,basque country,11-50,
+spain,,jKeTAzb2KdNmp7oPL3Domgr5HbJn,retail,linkedin.com/company/abcserrano,humanes de madrid,abc serrano,community of madrid,201-500,abcserrano.com
+spain,,6BYB6CXsRPOHFXyYCB7VwQe7Xp8T,retail,linkedin.com/company/venda-i-reparacio-de-maquinaria-josep-fontdegloria-sl,mataró,venda i reparacio de maquinaria josep fontdegloria sl,catalonia,11-50,
+spain,,OzTM6sn7vuJLYBep48avHA6gFgtq,retail,linkedin.com/company/maqueves-carolina-de-energia-sl,villarejo de fuentes,maqueves carolina de energia sl,castilla-la mancha,1-10,
+spain,,b9CgrMuRbq3JzC645ocUIA87ACtY,retail,linkedin.com/company/romavi-motos,cordoba,romavi motos,andalusia,1-10,romavimotos.com
+spain,2007,7tnIh9eOevxQreKbKb9PRg8NDpIX,retail,linkedin.com/company/commodity-home.com,barcelona,commodity-home.com,catalonia,1-10,commodity-home.com
+spain,,tjZjHe8B77bTqyXPOEtBJAH4La2p,retail,linkedin.com/company/estudio-fotos-carnet-pindar,donostia,estudio fotos carnet pindar,basque country,1-10,
+spain,,DiLmb4Is1v3mZiGiYemgHQRdvPcA,retail,linkedin.com/company/noguel,sevilla,noguel,andalusia,1-10,noguel.com
+spain,,RDpzrVTCXcl6A1WEIgnwoAnlvwwc,retail,linkedin.com/company/la-casa-de-las-pantallas-sl,,la casa de las pantallas sl,,11-50,
+spain,,CVuENUza5Oz59Mjs8v50ugygnL7d,retail,linkedin.com/company/aula-siete-academia-de-música-en-getafe,getafe,aula siete academia de música en getafe,community of madrid,1-10,
+spain,2003,2bCRi2IaoSvD0aICIe6wEgs1ijrE,retail,linkedin.com/company/busanauto-sl,leon,busanauto,castilla and león,11-50,busanauto.com
+spain,,Od1dw7wKqtD1kVMQtrfPKAy9ORQJ,retail,linkedin.com/company/verticalia,redondela,verticalia,galicia,1-10,verticaliaepis.com
+spain,2019,Q4jyes4bRs6NleEIBJRgBQRJKXx3,retail,linkedin.com/company/kijatech,barcelona,kijatech,catalonia,1-10,kijatech.com
+spain,,3vkndsOBDjwM6olCBKQF9weXh1nj,retail,linkedin.com/company/torrijos-moda-sl,huesca,torrijos moda sl,aragon,1-10,
+spain,,Vgc0AlVUSx8tGETretI4uAMN9oDg,retail,linkedin.com/company/farmacia-isla-plana,cartagena,farmacia isla plana,region of murcia,1-10,farmaciaislaplanafmas.com
+spain,,jAT0zepcCCuIN3I7xyg7Qga8r1KQ,retail,linkedin.com/company/alimentos-de-zamora,zamora,alimentos de zamora,castilla and león,1-10,alimentosdezamora.info
+spain,,XAUYzJWVM8hxdH8yIOM51wWSylIG,retail,linkedin.com/company/mundicar-sa,,mundicar sa,,11-50,
+spain,,0SxRS7mjkgHBqiFCO3eX0gXxKfpG,retail,linkedin.com/company/farmaflacon-envase-y-embalaje-sl,,farmaflacon envase y embalaje sl,,11-50,
+spain,,Pf0F9DJFDo6NN9HyBgtqeQF8KfAl,retail,linkedin.com/company/papelería-ledoira,santiago de compostela,papelería ledoira,galicia,1-10,papelerialedoira.es
+spain,,bauC8yLbpaV8AtH4POw0WwRfFZeM,retail,linkedin.com/company/vilaverd-park-sl,tarragona,vilaverd park sl,catalonia,1-10,
+spain,,ZQW9W55xLDlepZ9GildG6QTpbRnq,retail,linkedin.com/company/ontieleva-sl,onteniente,ontieleva sl,valencian community,11-50,ontieleva.es
+spain,,1YWsht49C0aMfB5XBpxjXQNXIelZ,retail,linkedin.com/company/auto-comercial-servitaller-sl,chinchilla de monte aragón,auto comercial servitaller sl,castilla-la mancha,1-10,
+spain,,O0ogHxJ2lV4vRxPQQCB0QgFwa5GO,retail,linkedin.com/company/floristería-magnolia,torrejoncillo,floristería magnolia,extremadura,1-10,floristeriamagnolia.es
+spain,,rZLszTK7QuphjuTFIqQZEQYmVM18,retail,linkedin.com/company/roches-stores,madrid,roches stores,community of madrid,201-500,roches-stores.ie
+spain,,DFVNBrQVB9x20aRtGA5IoQlkvbUH,retail,linkedin.com/company/möbler-muebles-nórdicos-y-decoración,barcelona,möbler | muebles nórdicos y decoración,catalonia,1-10,mobler.es
+spain,,codCjo8FnCGN3QwqX4nCBQrzoD9D,retail,linkedin.com/company/vendelcar,móstoles,vendelcar,community of madrid,1-10,vendelcar.com
+spain,,eYSW4RVdywRXM0pTwgH3UwharsTA,retail,linkedin.com/company/sistemas-digitales-corporate-sl,cornella de llobregat,sistemas digitales corporate sl,catalonia,51-200,
+spain,,91dBKLx5LqYGBu1XhW23vQGL79nH,retail,linkedin.com/company/solaris-bus-spain-sl,sant marti sarroca,solaris bus spain sl,catalonia,11-50,
+spain,,XdYHoYTFSfDlIEmAPnmX0wR5bIL1,retail,linkedin.com/company/óptica-alcudia,alcudia,óptica alcudia,balearic islands,1-10,opticaalcudia.es
+spain,,acFL1tYBGyAUGVuPBjBRdwr70QEY,retail,linkedin.com/company/dos-interiorismo-sl,,dos interiorismo sl,valencian community,1-10,
+spain,,8ikeB768HMR7NG9C0NH4ugz5TOyT,retail,linkedin.com/company/bici-tienda,velilla de san antonio,bici-tienda,community of madrid,1-10,bici-tienda.com
+spain,,yuSfc9CcGQKYGb6SGFTUYwDAOUVG,retail,linkedin.com/company/bon-salud-integral-sl,,bon salud integral sl,community of madrid,1-10,
+spain,,gN8wUqbsXSkoy6CMo1IicQFBMczB,retail,linkedin.com/company/rs-accesorios-sl,rubí,rs accesorios sl,catalonia,11-50,
+spain,,rCVMdH1wyjBYDSAXAsO0qwo4Lej3,retail,linkedin.com/company/mobles-palau-sa,,mobles palau sa,,1-10,
+spain,,DsKOXyzwRKpRp6YmM04nUA5R9ITR,retail,linkedin.com/company/kitxu,ondárroa,kitxu,basque country,1-10,kitxu.weebly.com
+spain,,AVNGIjKgs9uuqGXDwvSxUwHtNCil,retail,linkedin.com/company/siete-llaves,sevilla,siete llaves,andalusia,11-50,
+spain,,XLHoEGbgGxOe8IXZJqYWCAE3vLre,retail,linkedin.com/company/neumaticos-jc-sl,,neumaticos jc sl,,1-10,
+spain,,qpmN3CfTGSmvB5IuBIXMYwjpqDiM,retail,linkedin.com/company/modas-boom,la lantejuela,modas boom,andalusia,1-10,modasboom.com
+spain,,fR93Kh8k3daCfkOcjnfH5wmsUEer,retail,linkedin.com/company/bossmusic-sl,cornella de llobregat,bossmusic sl,catalonia,1-10,
+spain,,13LY7pCxL8Z9V8rAi4hjEgBtJFiG,retail,linkedin.com/company/neumáticos-llans,barcelona,neumáticos llans,catalonia,1-10,neumaticosllansa.es
+spain,,U0pwzdFQ0flq4NcNw9B0cALGQSoa,retail,linkedin.com/company/servyrema-pvc,sant sadurní d’anoia,servyrema pvc,catalonia,1-10,servyrema.com
+spain,,b5t02nEMVURFPPWNEq6ZaQwo8JzE,retail,linkedin.com/company/mis-coquetas,vallada,mis coquetas,valencian community,1-10,miscoquetas.com
+spain,1984,lBB8dWlSnCUJ8blOBLdu9QGO7sdM,retail,linkedin.com/company/international-safety-center-sl,cubellas,international safety center sl,catalonia,1-10,antihurto-isc.com
+spain,,ELGfpeU7FiVIHZLBMkBqhwjI3DwP,retail,linkedin.com/company/anmia-canarias-sl,llanos de aridane,anmia canarias sl,canary islands,1-10,
+spain,,QwupX5cwGysGPyGRrUrIFQoxpLwS,retail,linkedin.com/company/mercante-del-caribe-sl,san pedro del pinatar,mercante del caribe sl,region of murcia,1-10,
+spain,,Z4xyegYnjQ4HtITECmzSKgwAQ7SH,retail,linkedin.com/company/union-4-ruedas-sl,sevilla,union 4 ruedas sl,andalusia,1-10,
+spain,,C4PcDg8BhX7SZqU0uzxnzwX4eNgu,retail,linkedin.com/company/aurora-e-hijos-sl,vitoria-gasteiz,aurora e hijos sl,basque country,11-50,
+spain,,bYxv6onYMDTjFORsI87e9AJjg66q,retail,linkedin.com/company/latiguillos-burgos-sl,burgos,latiguillos burgos sl,castilla and león,11-50,
+spain,,Zxnft9eeski3f40Tw308dQIEtZNm,retail,linkedin.com/company/automoviles-y-tractores-del-sur-sl,poligono industrial,automoviles y tractores del sur sl,galicia,1-10,
+spain,1935,cFxoyhdu35EEqmRh0AlC6gLaKQft,retail,linkedin.com/company/elcorteingles,madrid,el corte inglés,community of madrid,10001+,elcorteingles.es
+spain,,vyfrhyipJGuVeigJWlBDdAcaCUci,retail,linkedin.com/company/camping-la-rosaleda,conil de la frontera,camping la rosaleda,andalusia,11-50,campinglarosaleda.com
+spain,,5L9V3rzjsbeKKIjtvqKULg1bjDQk,retail,linkedin.com/company/cristaleria-versalles-sl,pamplona,cristaleria versalles sl,navarre,11-50,
+spain,,xkYM2jIb5194vCW7oVC6Vgm8JwM8,retail,linkedin.com/company/media-lúa,santiago de compostela,media lúa,galicia,1-10,medialua.es
+spain,,a2245lFzPcJwvRqneEmwSgCGRxYn,retail,linkedin.com/company/inalvi,vilafranca del penedes,inalvi,catalonia,1-10,inalvi.com
+spain,,lB8SM0nFeVMSfTPflWQVkg2SKD7i,retail,linkedin.com/company/casa-giménez,,casa giménez,valencian community,1-10,maquetascasagimenez.com
+spain,,BjaVuNctGK5L0GKki1lLSQCh7MrE,retail,linkedin.com/company/centro-de-asesoramiento-privado-integral-balear-sl,palma,centro de asesoramiento privado integral balear sl,balearic islands,11-50,
+spain,,xLYA7JJOaCDClLW8OmgFuwLX0t0W,retail,linkedin.com/company/warau,barcelona,warau,catalonia,1-10,
+spain,,hEhir4oYhzzmM0h5WrUpBgKLE5Xs,retail,linkedin.com/company/meimon,elche,meimon,valencian community,1-10,meimon.es
+spain,2018,1BCAYCnek9rcoHjBdps79Qjb1iG5,retail,linkedin.com/company/lacontra,valencia,lacontra,valencian community,1-10,lacontraroom.com
+spain,,VkeLuPbWujCixrLKn9kAfA8o3OW9,retail,linkedin.com/company/motor-alcobendas-sl,alcobendas,motor alcobendas sl,community of madrid,11-50,motoralcobendas.com
+spain,2024,FgsvuhAzB8bPucLbJ17ztgCecD9D,retail,linkedin.com/company/logoflexes,,logoflex,valencian community,1-10,logoflex.es
+spain,2022,ZDC9bGXzA6ofBreB6ISBCgCVJojE,retail,linkedin.com/company/aldangourmet,cercedilla,"aldan gourmet, s.l.",community of madrid,1-10,aldangourmet.com
+spain,,P0HGYtv8n3BtCVI6iJymjwVsDATP,retail,linkedin.com/company/hitalo-alcala-sl,alcalá de guadaira,hitalo alcala sl,andalusia,1-10,
+spain,,a93jI3a0HBegxGpLmXsBZgASrOfX,retail,linkedin.com/company/taser-99-sl,zaragoza,taser 99 sl,aragon,11-50,
+spain,,heh1xj3ofR2CtXHZiJNCpQpCMGNY,retail,linkedin.com/company/beep-mora-d’ebre,mora d'ebre,beep mora d’ebre,catalonia,1-10,
+spain,,D93l0CJ7GY9kVCFGwm5owQv5XPCu,retail,linkedin.com/company/farmacia-ignacio-pascual-rovira,pego,farmacia ignacio pascual rovira,valencian community,1-10,farmaciaignaciopascual.com
+spain,,IhfMnN9djPPOtZKShDRogwQ3AnDR,retail,linkedin.com/company/automocion-rega-sl,castilblanco de los arroyos,automocion rega sl,andalusia,1-10,
+spain,,gpcippeAge4g1OJy8EbFuAzo4Fx8,retail,linkedin.com/company/spain-prorealty-consulting-sl,alicante,spain prorealty consulting sl,valencian community,1-10,
+spain,,UP7xsE4oHdza4i6mvTbecwQxTDPv,retail,linkedin.com/company/sertyman,tomelloso,sertyman,castilla-la mancha,1-10,sertyman.es
+spain,,3pTMrhejMdZCZTF0ROnSGwXo7Yb6,retail,linkedin.com/company/coalve,,coalve,community of madrid,1-10,coalve.it
+spain,,328l1DjNId8uYcUNCaXlJgOpjzPh,retail,linkedin.com/company/riegos-lebor-sl,,riegos lebor sl,,1-10,riegoslebor.com
+spain,,IwwrpIkuCAp4ByI2er5fHgpE89b0,retail,linkedin.com/company/c-m-tocar-madera-sl,madrid,c m tocar madera sl,community of madrid,11-50,
+spain,,UqDJzK0OqGkgj9wRqt83mgdoLs3s,retail,linkedin.com/company/good-step,barcelona,good step,catalonia,1-10,goodstepbcn.com
+spain,,6P7B2lCJZpFBCBn4b7NYOw3nYMDJ,retail,linkedin.com/company/aridos-y-servicios-cobatrans-sl,campico de los lópez,aridos y servicios cobatrans sl,region of murcia,11-50,
+spain,2022,y13fRA3LENVkqju9xsu69wCd0S4x,retail,linkedin.com/company/woodgo,alicante,woodgo,valencian community,1-10,woodgo.es
+spain,,LO2UsP06I09EqqQqntuX0gywTtid,retail,linkedin.com/company/ambmimo,el carrer de dalt,ambmimo,catalonia,1-10,
+spain,,ax9OzDHm99jpmOv1YUZmBQmvXjC8,retail,linkedin.com/company/muy-mucho-sants-sl,barcelona,muy mucho sants sl,catalonia,11-50,
+spain,,RJVSsl8cEneG73DYAh1rBwXgSIgn,retail,linkedin.com/company/microdur-sl,sevilla,microdur sl,andalusia,11-50,
+spain,,oU2ODAtlcfbCdxKUjVM9GAvJmv3t,retail,linkedin.com/company/bio-tech-associates-inc-,madrid,"bio tech associates, inc.",community of madrid,1-10,biotechassociates.net
+spain,,vETTrMfGu8N5oG4UrvpTKwOLuJ2m,retail,linkedin.com/company/mktmodas,granada,mktmodas,andalusia,1-10,mktmodas.com
+spain,,ad5h8KiH16rG0mDZG5TCXgSblX4K,retail,linkedin.com/company/plantas-galilea,barcelona,plantas galilea,catalonia,1-10,plantasgalilea.com
+spain,,XQcZBc8dv8SfrVyrtx8hwQMn2WOv,retail,linkedin.com/company/expocoches-4-puente-sl,logrono,expocoches 4 puente sl,la rioja,1-10,
+spain,,UzNhCCrO3U1wkOiz0UB4aAHesHkC,retail,linkedin.com/company/talleres-de-suministros-comerciales-y-reparaciones-automocion-sl,sevilla,talleres de suministros comerciales y reparaciones automocion sl,andalusia,1-10,gruposcora.com
+spain,,fiU4lw8ybmnlz7Qo2gNBVgHaAC47,retail,linkedin.com/company/tien-21,candás,tien 21,asturias,1-10,candaselectrodomesticos.es
+spain,,wT0M86XLBLTXBGSuykX8tQvLDqMh,retail,linkedin.com/company/nosolomovil,,nosolomovil,,1-10,nosolomovil.es
+spain,,YLZn7046tH7DXfTZVdGFMg6zTPNb,retail,linkedin.com/company/farmacia-pascual-march,valencia,farmacia pascual march,valencian community,1-10,farmaciapascualmarch.com
+spain,,Q1fN9E0dV0S37lMb2GFpbwFhrFJe,retail,linkedin.com/company/sport-pirineos,jaca,sport pirineos,aragon,1-10,sportpirineos.com
+spain,,K20lMAxXPRRWY02JOqCRfwwi7JRV,retail,linkedin.com/company/motorprim-sl,mataró,motorprim sl,catalonia,11-50,motorprim.es
+spain,1974,G6vdfAW4JkUTMU4K2jGrFgAzgdo4,retail,linkedin.com/company/alba-solomusica-sa,pontevedra,alba solomusica s.a.,galicia,1-10,albasolomusica.business.site
+spain,,RX2qIbygaC5qrnCAFQboEwAxo8uJ,retail,linkedin.com/company/grupo-alasia,santa cruz,grupo alasia,canary islands,51-200,alasia.es
+spain,,T7zmUKnEdfgZ5CGtwFyjNQaCPRey,retail,linkedin.com/company/sandpiper-holdings-sl,universitat illes balears,sandpiper holdings sl,balearic islands,11-50,
+spain,,xA1PfmrzJJCYtowSfNYTogZc70F2,retail,linkedin.com/company/flutterbye-equestrian-limited,madrid,flutterbye equestrian limited,community of madrid,1-10,flutterbye.co.nz
+spain,,an3wohsHFOsLA6ed1quIagtWukCA,retail,linkedin.com/company/corte-ingles-hipercor-centro-comercial-arroyosur,leganés,corte ingles hipercor centro comercial arroyosur,community of madrid,1-10,
+spain,,iTlb3Ob8PgUMXPfk1xDaCAcGMQ1f,retail,linkedin.com/company/el-mercader-de-venecia-sl,badalona,el mercader de venecia sl,catalonia,1-10,
+spain,,rULxO3Kg0SLTCjzunyv7DwUlfPrw,retail,linkedin.com/company/huso-editorial,,huso editorial,community of madrid,1-10,husoeditorial.es
+spain,,XB0LBsC9b6Sk3hZZFnIOhAXv0F9k,retail,linkedin.com/company/jabones-la,la esperanza,jabones la,canary islands,1-10,jaboneslacuchara.es
+spain,,ajV30mQVUeKgjcQi5rAfBQWzZdao,retail,linkedin.com/company/alpha-3-tech-import-sl,barcelona,alpha 3 tech import sl,catalonia,11-50,criskatina.com
+spain,,6zQNhyBAbTZ4rwUaIBphWghsGVbx,retail,linkedin.com/company/chimecal-chimeneas-sl,carbajosa de la sagrada,chimecal chimeneas sl,castilla and león,11-50,
+spain,,3q1GCWA50YXDBsK3X6QgvwxyOLNo,retail,linkedin.com/company/chetoner,sevilla,chetoner,andalusia,1-10,
+spain,,BarZy0awNoclb4lTcDnCmQssMvH5,retail,linkedin.com/company/tonerpoint,alicante,tonerpoint,valencian community,1-10,tonerpoint.com.es
+spain,,zrvtQrYepobW4G9RGBkeOw9nG5zf,retail,linkedin.com/company/dream-clothes-sl,jaen,dream clothes sl,andalusia,1-10,
+spain,,3sC1kcFPxwLyHNomTY6cmwKzqeE0,retail,linkedin.com/company/kidz-xchange-limited,madrid,kidz xchange limited,community of madrid,1-10,kidzxchange.co.nz
+spain,,wbrkPD3rjBS4xWLWIUCH6QsZVgXU,retail,linkedin.com/company/trasportes-juan-jesus-tamayo-sl,barbate de franco,trasportes juan jesus tamayo sl,andalusia,1-10,
+spain,,cpUhJS4wcn0GmZCuiZZ8TAxdE8lK,retail,linkedin.com/company/furgo-cars-ocasion-sl,santomera,furgo cars ocasion sl,region of murcia,1-10,
+spain,2019,Cg0ch3fDVezXgBnpAcbWFQHuZJM3,retail,linkedin.com/company/simplify-tech-org,málaga,initi success s.l.,andalusia,1-10,initisuccess.com
+spain,,fZoBuAGbYnWCGyJ5qein3wLuszje,retail,linkedin.com/company/bar-restaurante-colon-sl,,bar restaurante colon sl,,1-10,
+spain,,b2o1toaCUIwEfnC8bHvg8AHWyrzX,retail,linkedin.com/company/autoberon-sl,,autoberon sl,,1-10,
+spain,,xhN6kP9JN73UDro1zDtYlwq6q7A3,retail,linkedin.com/company/crea-siete-sl,las palmas,crea siete sl,canary islands,11-50,
+spain,,u3f4kStEZtev74ts0zKFSQaOwi6b,retail,linkedin.com/company/cars-barouta-sl,amés,cars barouta sl,galicia,1-10,
+spain,,GZcOzOrL2ssBQpUJJxV4egvAk0eQ,retail,linkedin.com/company/todos-los-neumaticos-sl,la muela,todos los neumaticos sl,aragon,1-10,
+spain,,iRPGxCsDK6hQLXVwbR3CDwgr5ZvF,retail,linkedin.com/company/compraventa-j-s-sl,terrassa,compraventa j s sl,catalonia,11-50,
+spain,,t3io4oUFbjeryI9XBex56gElZssU,retail,linkedin.com/company/glassdv-pozuelo-sl,pozuelo de alarcon,glassdv pozuelo sl,community of madrid,1-10,
+spain,,mDcyym3GVsNUmLG1HBKCRAX74pHK,retail,linkedin.com/company/laboratorios-mallen-sl,,laboratorios mallen sl,,11-50,
+spain,,ahYJ3k30OnipTW3X2NB8rgp0dyOc,retail,linkedin.com/company/kilumio,fuenlabrada,kilumio,community of madrid,1-10,kilumio.com
+spain,,u42DY8Jx0T98HoLxWprbCA6jPQaQ,retail,linkedin.com/company/actual-de-mymm-sl,cordoba,actual de mymm sl,andalusia,11-50,
+spain,1998,rWgqGjeHf4j66ChReVhB9AHNnf7b,retail,linkedin.com/company/fabregat-decoraci-n-de-navidad-s-l-,san lorenzo de hortóns,fabregat decoración de navidad s.l.,catalonia,11-50,fabregatdecoraciondenavidad.com
+spain,2018,uYhYFSflCvWA9cMPCtBdyQhF9Eyi,retail,linkedin.com/company/soluciones-ecologicas,algeciras,soluciones ecologicas,andalusia,1-10,solucionesecologicas.es
+spain,2008,VFbKYiOBclH6PsqNRhuiKwmrOB0J,retail,linkedin.com/company/we-are-strap-sl,valencia,we are strap sl,valencian community,1-10,wearestrap.com
+spain,,pOd84CAQGgN2N0kme6TRzAy6rZGe,retail,linkedin.com/company/cayambe-serveis-generals-sl,corro d'avall,cayambe serveis generals sl,catalonia,1-10,
+spain,,lwFZUImn1kwqGjDyov63BADtqPyJ,retail,linkedin.com/company/my-tv-abroad,costa teguise,my tv abroad,canary islands,1-10,mytvabroad.tv
+spain,,xBCWyPyOffe9kFMFlmCz0w71BtWI,retail,linkedin.com/company/spoticar-en-almería,el ejido,spoticar en almería,andalusia,1-10,spoticarenalmeria.com
+spain,,mRPc2teJUjk4P1L0nMB8Bw3meou3,retail,linkedin.com/company/genesis-canarias-sl,las palmas,genesis canarias sl,canary islands,11-50,
+spain,2019,TniYBfuWjJAMIXVP799ong1gZ45I,retail,linkedin.com/company/anzi-barcelona,barcelona,anzi barcelona,catalonia,1-10,anzi.es
+spain,,qxjVrF79QjHUKKVgKTG03Avz3bJP,retail,linkedin.com/company/vision-optica-dos-hermanas-sl,sevilla,vision optica dos hermanas sl,andalusia,1-10,
+spain,,VfSAbsW2XB334UepJNqCfAgbymNm,retail,linkedin.com/company/dress-moda,carballo,dress moda,galicia,1-10,dressmoda.es
+spain,1992,byKm1qDcVhNO1AXFiwaxAwD11JcY,retail,linkedin.com/company/equipal-soluciones,zaragoza,equipal soluciones sl,aragon,1-10,equipalsoluciones.es
+spain,1977,MA6s9jQPUSs8SL7uhZEFjQyAJqWt,retail,linkedin.com/company/qubbos,madrid,qubbos,community of madrid,11-50,qubbos.es
+spain,,i1g5oSUM6Xpo80sCCPruAAS9C6Jb,retail,linkedin.com/company/macher-motor-sl,las palmas,macher motor sl,canary islands,11-50,machermotor.es
+spain,,VpG2dcjq7oNbq9QGn3YPYwjf4OCl,retail,linkedin.com/company/agasallos,vigo,agasallos,galicia,1-10,agasallo.eu
+spain,,hKKrej8oodh5gEP5qFiMcQE4Mb2z,retail,linkedin.com/company/panahpour-sa,,panahpour sa,,11-50,
+spain,,hxZXfC25BoROSuybW9FXLQkUclS6,retail,linkedin.com/company/obres-i-serveis-innova-s2-sl,,obres i serveis innova s2 sl,,1-10,
+spain,,NsGdajriRRsrjWlAaujEAwIeTUCS,retail,linkedin.com/company/calzados-la-castellana-y-pekas-sl,málaga,calzados la castellana y pekas sl,andalusia,1-10,zapateriasgrupopekas.com
+spain,,R7P0Nhh45XQBIEJ8rQChCg0ybeGi,retail,linkedin.com/company/maruxía-gráfica,ferrol,maruxía gráfica,galicia,1-10,maruxiagrafica.com
+spain,,ySNx5D05MlmeFpWXEj5u9wL2ZPgG,retail,linkedin.com/company/pirinea-norte-sl,haro,pirinea norte sl,la rioja,11-50,
+spain,,q3KXwpvWVVtuipwwhSY3SgLu8eAr,retail,linkedin.com/company/tu-hobby,ferrol,tu hobby,galicia,1-10,tuhobby.com
+spain,,ZxboHYX4QwWa7BwDCC2XYAayWd7b,retail,linkedin.com/company/hughes-display-group-inc-,madrid,"hughes display group, inc.",community of madrid,1-10,display-case-showcase.com
+spain,,zqHqUwB7oSdgTfIQRo4jkwO6YKV3,retail,linkedin.com/company/ecotuk-bcn-sl,barcelona,ecotuk bcn sl,catalonia,1-10,
+spain,,YehClred0dL4qw35ERspnAYNBqBS,retail,linkedin.com/company/suministros-berotza-s-l-,noáin,"suministros berotza, s.l.",navarre,1-10,
+spain,,Ej96lOJcVketdCoKLufKPwfQKjv8,retail,linkedin.com/company/llibres-text-sl,vilamalla,llibres text sl,catalonia,11-50,
+spain,,uwQXrIn9eCafQBuEWwMYCArBXFe2,retail,linkedin.com/company/whells-services-automocion-sl,toledo,whells services automocion sl,castilla-la mancha,1-10,
+spain,,7o029amykm7ywRbIFAO0SAKGJUo8,retail,linkedin.com/company/can-juanito,palma,can juanito,balearic islands,1-10,
+spain,,aCfVGlZjTQj0PA1eKBuirwyV6IwZ,retail,linkedin.com/company/jiménez-sanjuan-abogados-y-asesores,jaen,jiménez sanjuan abogados y asesores,andalusia,1-10,jimenezsanjuan.es
+spain,,oa2sG77BF8Kk6H6CkQ5w5w7vROev,retail,linkedin.com/company/todo-a-100-juanvi,,todo a 100 juanvi,valencian community,1-10,
+spain,2013,TeACVC87j5jz0h8dZT3ZfgQVxCZQ,retail,linkedin.com/company/mascota-nube,,mascota nube,community of madrid,1-10,mascotanube.es
+spain,,LxmXARe3BBhYeFww1jKzmQHE02e6,retail,linkedin.com/company/ssmar,san juan de vilasar,ssmar,catalonia,1-10,ssmar.cat
+spain,,mBcjUzc2K2XrSX02s9JACQHayFUn,retail,linkedin.com/company/la-galería-del-libro,churriana de la vega,la galería del libro,andalusia,1-10,galeriadellibro.es
+spain,2011,ATmqolwiU3fZg2fZ3ThpHg7XOuPX,retail,linkedin.com/company/kidshome,palma,kidshome,balearic islands,1-10,kidshome.es
+spain,,SLshZJXuaegoguqJi5oDXglKhbQZ,retail,linkedin.com/company/farmacia-san-francisco-javier,arrecife,farmacia san francisco javier,canary islands,1-10,farmaciadelanzarote.com
+spain,,W7sR2T0X4OUDYEZREIgt6wgRG1Iv,retail,linkedin.com/company/floristeria-jardin-del-valle-sl,puerto de la cruz,floristeria jardin del valle sl,canary islands,1-10,
+spain,,qlpUG7lRATKCYVRfxOz8JgzzO3RS,retail,linkedin.com/company/akinteractive,logrono,ak-interactive,la rioja,11-50,ak-interactive.com
+spain,,jEm9ftBowkj8iC2NnMV2EwtMo7Bb,retail,linkedin.com/company/terra-à-vins,valencia,terra à vins,valencian community,1-10,terraavins.com
+spain,,bdy1tlU7gw7WhJS72Qj5zwRtS6PX,retail,linkedin.com/company/espacios-rurales-fuente-piedra-sl,fuente de piedra,espacios rurales fuente piedra sl,andalusia,11-50,
+spain,,xCpy2omJBk3aX10Bb4gmdwvFgsrD,retail,linkedin.com/company/hortifruit-la-posada-sl,posadas,hortifruit la posada sl,andalusia,11-50,
+spain,2019,Bnu4JBComM6lKxzSHvqaWA21LFEg,retail,linkedin.com/company/mch-1978-s-l,girona,mch projects,catalonia,1-10,
+spain,,mxJCoEOBlgCfQQtg8eZIEQh95qIK,retail,linkedin.com/company/óptica-y-audiología-pollentia,alcudia,óptica y audiología pollentia,balearic islands,1-10,opticayaudiologiapollentia.com
+spain,2019,wb2gB9iFJlHj4EGvEu5QlQszeExf,retail,linkedin.com/company/mr-home-spain,alicante,mr home spain,valencian community,11-50,
+spain,,1tYOEprfs6MK9bPOEE1YsQCVA2si,retail,linkedin.com/company/racha-sk8-jaca-sl,jaca,racha sk8 jaca sl,aragon,1-10,
+spain,,3VcovpDosGVzfuqeBThRegdki6mT,retail,linkedin.com/company/special-novias-palamos,palamós,special novias palamos,catalonia,1-10,specialnovias.com
+spain,,0oEX2C17D4Nwqr3CNsIfJQ5pzqJD,retail,linkedin.com/company/casaplanta-centros-de-jardineria,vigo,casaplanta vigo,galicia,11-50,casaplantavigo.com
+spain,,R92hYjxSpPABR1FtFPPIGg6gWQNj,retail,linkedin.com/company/dress-bori,zaragoza,dress bori,aragon,1-10,dressbori.com
+spain,,kCmdiQvhMEU22XITMioKSQycsoVX,retail,linkedin.com/company/tenllado-asesores-sl,málaga,tenllado asesores sl,andalusia,11-50,
+spain,,1CvEtdMnt2vLvhHsBulwAwzGWfbu,retail,linkedin.com/company/oliver-òptics,mataró,oliver òptics,catalonia,1-10,oliveroptics.com
+spain,,X5ucWVoJwqU2jodGT0ysLgoJ1OLl,retail,linkedin.com/company/b2-urban,puerto del rosario,b2 urban,canary islands,1-10,b2urban.com
+spain,,kB7lO8wROu9SCq4C4hJ36QSWeI65,retail,linkedin.com/company/dgr-marbres,ripollet,dgr marbres,catalonia,1-10,dgrmarbres.com
+spain,,oXgbyJojVCvjT03FPD7VoAH9m5Gx,retail,linkedin.com/company/eurokorean-park-sl,,eurokorean park sl,,11-50,
+spain,,lqPnIB78nfTXZcy74JYPiwI7MARr,retail,linkedin.com/company/carrousel-craft,barcelona,carrousel craft,catalonia,1-10,carrouselcraft.com
+spain,,vMberbrlrEaJutlwOCAc3wO3ATjJ,retail,linkedin.com/company/sueños-delistores-sl,palma,sueños delistores sl,balearic islands,1-10,
+spain,,3nmv7aBXXX7oC4FohB788wU9eSd6,retail,linkedin.com/company/suralco-sl,,suralco sl,,11-50,
+spain,,WZImJV9haoACVlimS61HygAU9Hpz,retail,linkedin.com/company/seinco-mobiliario,coria del río,seinco mobiliario,andalusia,1-10,seincomobiliario.com
+spain,,5CzcoUqfpeTaIbEqdSntugXxKyWG,retail,linkedin.com/company/showroom-actitud,,showroom actitud,,1-10,showroomactitud.com
+spain,,HR0CA5sLOVBm7Vt7Ulf56AYaBNcT,retail,linkedin.com/company/solutions-world-parts,santa pola,solutions world parts,valencian community,1-10,solutionsworldparts.com
+spain,,eOxsCfDTgOfoaG5iHx9BbQ0qVh2s,retail,linkedin.com/company/optica-costa-blanca-sl,alicante,optica costa blanca sl,valencian community,11-50,opticacostablanca.com
+spain,,0iSF2B4VhFClnItHCIuHAgkt52Oc,retail,linkedin.com/company/taller-jj-domenech-sl,girona,taller jj domenech sl,catalonia,11-50,tallerjjdomenech.com
+spain,,3Wr99qWsCZC5VNHkCIlITAAAA804,retail,linkedin.com/company/epm-especial-moda-boutique-tallas-grandes-sl,girona,epm especial moda boutique tallas grandes sl,catalonia,11-50,
+spain,,2Is5bFXaQ3pqY7j4ydtfYg2Afiuz,retail,linkedin.com/company/sonabé-music,javea,sonabé music,valencian community,1-10,sonabemusic.es
+spain,,M4X7C0JDH8q72AqJk75ZjwXV7da7,retail,linkedin.com/company/automoviles-nemesio-sa,chirivella,automoviles nemesio sa,valencian community,1-10,nemesio.com
+spain,,vQ5xZXNtQ1rncxI3B8cyig1MnUWa,retail,linkedin.com/company/opvin,,opvin,valencian community,1-10,
+spain,,QjhN8rRbD0KCic7PGlcRjgayknuz,retail,linkedin.com/company/decora-revestimientos-de-madera,lucena,decora revestimientos de madera,andalusia,1-10,decorarevestimientosdemadera.com
+spain,,kpMpn0XhUxMI8pf8cbtGeQNeNPWL,retail,linkedin.com/company/rr-muebles,trobajo del camino,rr muebles,castilla and león,1-10,rrmuebles.com
+spain,,zygZtrcBgc1ZchZh939uCg7LxpQ2,retail,linkedin.com/company/alberto-paniagua,talavera de la reina,alberto paniagua,castilla-la mancha,1-10,albertopaniagua.com
+spain,,XqksrjBXhSAXfVIm6BUKZg0IHiSh,retail,linkedin.com/company/farmacia-villalón,daimiel,farmacia villalón,castilla-la mancha,1-10,farmaciavillalon.es
+spain,,Qk4zQryfupsnBDzHXoJyNgBoLAE9,retail,linkedin.com/company/idifferent-business-sl,alicante,idifferent business sl,valencian community,1-10,
+spain,,ioIrh2TR4tsU80ST4u5TkQGP50AK,retail,linkedin.com/company/nitaca-comunicacion-audiovisual-sl,cáceres,nitaca comunicacion audiovisual sl,extremadura,11-50,nitaca.es
+spain,,abEkvHHbQQOJNJHGSSl8oQHKboeF,retail,linkedin.com/company/sahilo-galicia-sl,oleiros,sahilo galicia sl,galicia,1-10,
+spain,,zj7it4RhFQ53GNybG1LgqAUl3e5L,retail,linkedin.com/company/autocentro-macaydo-sl,sevilla,autocentro macaydo sl,andalusia,11-50,
+spain,,965bM94RNngqOvADorRmgAZY2zUz,retail,linkedin.com/company/tallers-monjonell-sl,vilassar de dalt,tallers monjonell sl,catalonia,11-50,tallersmonjonell.com
+spain,,cci2EFkSPc07PLyEYKkp1wOYWnHr,retail,linkedin.com/company/libreria-didot,zamora,libreria didot,castilla and león,1-10,libreriadidot.com
+spain,,PvsIB0LUjUaLTNEWxbBU4w0dPWyE,retail,linkedin.com/company/congelados-egea-sl,,congelados egea sl,,11-50,congeladosegea.es
+spain,,jK1NUNx4VgwYpMVmTNLCuQm0FjmS,retail,linkedin.com/company/mary-garcía,sevilla,mary garcía,andalusia,1-10,
+spain,,asZIJ9LZsy2aBv6OBrFZ1QrrYfua,retail,linkedin.com/company/bodegas-manuel-carreño,cabañas raras,bodegas manuel carreño,castilla and león,1-10,bodegasmanuelcarreno.com
+spain,,xd89RogSPFyLBmun9GrRdAV2cXwR,retail,linkedin.com/company/nautic-direct-sl,barcelona,nautic direct sl,catalonia,1-10,
+spain,2013,NjoLYlOIyR1LDr5cACRQMg2Kh47Q,retail,linkedin.com/company/maderas-carreño-moreno-sl,el puerto de santa maría,maderas carreño moreno sl,andalusia,1-10,
+spain,,1Lg811GBTBfoIOccXEkmxguEGs13,retail,linkedin.com/company/factory-del-neumatico-sl,huelva,factory del neumatico sl,andalusia,1-10,
+spain,,UY5b0vBpz4lOsSqnMG1UsAuLV2kE,retail,linkedin.com/company/comercial-arre-motor-sa,,comercial arre motor sa,navarre,1-10,arremotor.com
+spain,2021,eVZSSKCKwC747NdB4eRDlQRbTG9g,retail,linkedin.com/company/mimmar,barcelona,mimmar,catalonia,1-10,mimmar.es
+spain,,FKvL0cY6pbLSfPwmMFtuogYcRGi2,retail,linkedin.com/company/òdena-fusters,sentmenat,òdena fusters,catalonia,1-10,odenafusters.com
+spain,,2d3ztRvViZOayBhOuNva9wdqidUC,retail,linkedin.com/company/farmàcia-sant-bernat,olesa de montserrat,farmàcia sant bernat,catalonia,1-10,farmaciasantbernat.com
+spain,2010,kYSvYbg6HBPI3VloijZvrAKHfQBX,retail,linkedin.com/company/dylfer-s-l-,,dylfer s.l.,valencian community,1-10,dylfer.es
+spain,2007,okZHoQC69paDBwUQVx6nCw5MoZym,retail,linkedin.com/company/soloepis,cordoba,soloepis,andalusia,1-10,soloepis.com
+spain,,zaHqifKAPRzSi42aGQu14AMiHr8p,retail,linkedin.com/company/division-salud-sl,ciudad real,division salud sl,castilla-la mancha,1-10,
+spain,2009,S2RzMlm6UOrcbANcPSjYPg7UESNY,retail,linkedin.com/company/fonizzimo,granada,fonizzimo,andalusia,11-50,fonizzimo.es
+spain,,6reTR9NFIWxsClvZNryRRAw1PyBh,retail,linkedin.com/company/ferreteria-zerber,azcoitia,ferreteria zerber,basque country,1-10,ferreteriazerber.com
+spain,,LDN4ry25cOY6eteWUj3ZAwA0R2xt,retail,linkedin.com/company/vysalmotor,villacarrillo,vysalmotor,andalusia,1-10,vysalmotor.com
+spain,,DCbdV3hQsfNB71Q8NvvNxQdlFmkf,retail,linkedin.com/company/provinilos,montblanch,provinilos,catalonia,1-10,provinilos.com
+spain,,5ruSCI2GWpVD9ANp6XRtcws5cUza,retail,linkedin.com/company/agrimax-piensos-sl,las palmas,agrimax piensos sl,canary islands,11-50,
+spain,2022,7Vt8MOlawF2aXvqDkbbI4QaytV0z,retail,linkedin.com/company/villiva,pla de la bruguera,villiva,catalonia,1-10,villiva.com
+spain,,WhkTTxJXumgSISFsUf6JBAvJy260,retail,linkedin.com/company/iberrueda-sl,cordoba,iberrueda sl,andalusia,1-10,
+spain,,VqHDSCgqzviTsBs0E7eTmQaGwwXW,retail,linkedin.com/company/arte-tinta,villaviciosa de odón,arte tinta,community of madrid,1-10,artetintaypapel.es
+spain,,tB7ayOCDkwz3L4Hb7ClEVgDdVAd4,retail,linkedin.com/company/gres-sevillano,navalcarnero,gres sevillano,community of madrid,1-10,gresevillano.es
+spain,1997,85rxT1PRHS6N3mQCNKkXBAPq2BWT,retail,linkedin.com/company/plantas-flora-valles,santa cruz,plantas floravalles | vivero de plantas,canary islands,1-10,
+spain,,TBCOed0PHEEtNCNGEobvZQZATfee,retail,linkedin.com/company/rolauto-carwash-sl,los olivos,rolauto carwash sl,canary islands,1-10,
+spain,,BlxVEiyCfZ6SakMyo4UOvwyHmktN,retail,linkedin.com/company/alberto-millan-sl,zaragoza,alberto millan sl,aragon,11-50,
+spain,,8Yhj20zVE9arduPdwUfHugxInhJr,retail,linkedin.com/company/illice-informatica,elche,illice informatica,valencian community,1-10,illiceinformatica.com
+spain,,FzeGCxtRpX6o6FixSOmjPwZFeTzO,retail,linkedin.com/company/samba-musica-sl,,samba musica sl,,11-50,sambamusica.com
+spain,2018,9fm1EtcOIGq71FHRn5ZwuQl13tm4,retail,linkedin.com/company/stockpadel,,stock padel,,1-10,stockpadel.com
+spain,,8mcfUjkEFUSl3FwOxDRmAQBgS3ue,retail,linkedin.com/company/orivip,galapagar,orivip,community of madrid,1-10,bazarorivip.com
+spain,,JX1HeRW3BM31vyVempqCywAdibpa,retail,linkedin.com/company/lmsneakers,madrid,lm sneakers s.l.,community of madrid,1-10,linktr.ee/lmsneakers
+spain,,IYBCaOB8HDDxqoLv4IRC0Q5cocwC,retail,linkedin.com/company/en-casa-de-raquel-sl,ciudad real,en casa de raquel sl,castilla-la mancha,1-10,
+spain,,XZ4ETv1Z6jH5DV57xC6mKgAbDiSF,retail,linkedin.com/company/grupo-daesjolyma-sl,,grupo daesjolyma sl,region of murcia,1-10,
+spain,,eqYGajiJiAradNxgkxaBuAl3acwC,retail,linkedin.com/company/bangol-sl,,bangol sl,,11-50,
+spain,,6okkcWVCCU6plylD7At7vQ05bKt6,retail,linkedin.com/company/promessa-novias,port de sagunt,promessa novias,valencian community,1-10,promessanovias.com
+spain,,MBrpWzy9KOYa6eVzRNyztQsaYAHG,retail,linkedin.com/company/sport100,mieres,sport100,asturias,1-10,sport100.com
+spain,,4rXlmMKyF2N1p829XBVOYg67nyR9,retail,linkedin.com/company/horteralia,cáceres,horteralia,extremadura,1-10,horteralia.com
+spain,,4ceFduC6xhMGOZRBP6kICAUajlA7,retail,linkedin.com/company/pielxpiel,ubrique,pielxpiel,andalusia,1-10,pielxpiel.es
+spain,2022,vfNRTLvclBbN860o3thO1wDJQaRn,retail,linkedin.com/company/gay-modern,madrid,gay modern,community of madrid,1-10,gaymodern.com
+spain,,bCrpFCWHxNm1aIN1L8ll8AUGNJb4,retail,linkedin.com/company/electrodomesticos-otero-s.l.-robustiano-perez-del-rio-22,boiro,"electrodomesticos otero s.l. robustiano perez del rio, 22",galicia,1-10,
+spain,2006,Qo1qBhV5CYm9e9DIxKO9lg6puxKZ,retail,linkedin.com/company/tecnica-de-vehicles-industrials-girona-sl,girona,tecnica de vehicles industrials girona sl,catalonia,1-10,tvi.cat
+spain,,kiZqWcdkTTk6BmJd16ycQQZ24s3c,retail,linkedin.com/company/one-thousand-and-one-ideas-lab-sl,vigo,one thousand and one ideas lab sl,galicia,1-10,
+spain,,IuXNI7pT3jow0hCk2zCDFwLoKqiw,retail,linkedin.com/company/tracto-camion-madrid-sl,madrid,tracto camion madrid sl,community of madrid,11-50,
+spain,,fvUsxSclRLvQNRACAZEYKgSS3f11,retail,linkedin.com/company/ana-millán,,ana millán,community of madrid,1-10,
+spain,,WgAQyewhokBIOuCsceJFBglcURMl,retail,linkedin.com/company/rentevic-mantenimiento-sl,,rentevic mantenimiento sl,,11-50,
+spain,,A8T95yBbrM4RZKg4y6B30ggTOb1T,retail,linkedin.com/company/comercial-eneo,haro,comercial eneo,la rioja,1-10,comercialeneo.com
+spain,,o2hG7QYhhGzVOj3sqtlIrA98xmT6,retail,linkedin.com/company/silvia-sennacheribbo,barcelona,silvia sennacheribbo,catalonia,1-10,silviasennacheribbo.com
+spain,,BaVYKoc7A2BQC2Zu8Jm4lAlThmnm,retail,linkedin.com/company/facaber-sl,barcelona,facaber sl,catalonia,1-10,facaber.com
+spain,,B0dC7VUreUbNN5eHl6LHUwgu3BOw,retail,linkedin.com/company/mari-del-carmen,,mari del carmen,valencian community,1-10,maridelcarmen.es
+spain,,9YyBxVSx2NEC0vPePUCVLAJ67vC9,retail,linkedin.com/company/maiak,la nucía,maiak,valencian community,1-10,maiak.com
+spain,,7vaOPjx8Blv7v37zu8n5IwxkUBln,retail,linkedin.com/company/carnicería-javier-ortíz,jaen,carnicería javier ortíz,andalusia,1-10,carniceriaortiz.com
+spain,,XyZ7MBLnnxHvbRNBJvaUKAIAqaC3,retail,linkedin.com/company/nod-collections,barcelona,nod collections,catalonia,1-10,nodcollections.com
+spain,,xL5zmIZf6o4CISWbbXoz8gltHA4Q,retail,linkedin.com/company/asturiana-de-recambios-sl,,asturiana de recambios sl,,11-50,
+spain,2017,l7DBBq33zjThTwUHCM8veAJP0Ybc,retail,linkedin.com/company/my-beauter-shop,barcelona,my beauter shop,catalonia,1-10,mybeautershop.com
+spain,,2nThwYH0wyA0Moqm8iPxRwhSIuE2,retail,linkedin.com/company/opencar-marbella-sl,poligono industrial,opencar marbella sl,galicia,1-10,
+spain,1999,WPaGiFNuPQBUCpcLsF5sZw0rtzzh,retail,linkedin.com/company/telerosa-flores-a-domicilio,málaga,telerosa,andalusia,1-10,telerosa.com
+spain,,PpSZyE4gJZpq1G8vvJ02pgVCt1sz,retail,linkedin.com/company/baltasar-martin-e-hijos-sa,,baltasar martin e hijos sa,,1-10,monacomelilla.es
+spain,,YdvksZsARHCusBvHYizEbw5KnN6J,retail,linkedin.com/company/pedro-perez-e-hijos-sl,,pedro perez e hijos sl,,11-50,
+spain,,6eULyGnmJvx4h1vLibRFEw5siqbl,retail,linkedin.com/company/petrem,figueres,petrem,catalonia,11-50,
+spain,,QTuCscwSe7GCRiQ8ZwJergPzrCDO,retail,linkedin.com/company/federopticos-acosta,cabra,federopticos acosta,andalusia,1-10,indevasevilla.es
+spain,,50nMm6fmYBBQ1OdGL6x8BQQiSJ22,retail,linkedin.com/company/gedauto-sa,mérida,gedauto sa,extremadura,11-50,gedautodesarrollo.com
+spain,,4QBtOJZjRcePUniI6St1VQSQTaoe,retail,linkedin.com/company/farmacia-sitges-font.-todos,sitges,farmacia sitges font. todos,catalonia,1-10,farmaciasitgesfont.com
+spain,1987,UocQRuYeaYWhtwQu4b0tgAU0IuWv,retail,linkedin.com/company/concesionarios-nimo-gordillo,sevilla,concesionarios nimo gordillo,andalusia,201-500,
+spain,1953,1iLJY50gIwLX4QBxw6e0mQKjsh0H,retail,linkedin.com/company/eugenio-pereda-s.a.,leganés,eugenio pereda s.a.,community of madrid,51-200,pereda.com
+spain,,CzBbnBOWxljRpvd7J0ogdAN7lsuE,retail,linkedin.com/company/cogades,chiclana de la frontera,cogades,andalusia,1-10,cogades.com
+spain,,naPdIWnkJR1ATqQDiWEk7gORvgnT,retail,linkedin.com/company/marroquineria-cuero,sevilla,marroquineria cuero,andalusia,1-10,marroquineriacuero.es
+spain,,hffYkPsx1NolVUjUzllfTg3BRwr5,retail,linkedin.com/company/boutique-rodeo-drive,alicante,boutique rodeo drive,valencian community,1-10,boutiquerodeodrive.com
+spain,,KCPmfaDvNtnK2bxjxNX3fwJyAaVF,retail,linkedin.com/company/mario-coches-sl,toledo,mario coches sl,castilla-la mancha,1-10,
+spain,,ogM5Fqt7TtuFjrSCpfoQggPz76N4,retail,linkedin.com/company/congelados-asturgalaicos-sl,,congelados asturgalaicos sl,,51-200,
+spain,,00d6YwmOfvdTBZsBANM7BQ74vkO1,retail,linkedin.com/company/sentil-2000-sl,marcilla,sentil 2000 sl,navarre,51-200,sentil2000.com
+spain,,8vhwWSMdE3d7BuBNTqtNJgmvXcJm,retail,linkedin.com/company/ropa4-tu-tienda-de-camisetas-divertidas,churriana de la vega,"ropa4, tu tienda de camisetas divertidas",andalusia,1-10,ropa4.com
+spain,,ySxijCujcsOmh4wVOxXk0wC50dEK,retail,linkedin.com/company/by-carmen-ñu,,by carmen ñu,community of madrid,1-10,
+spain,,5bPlCzGbEk9htqOtf6zpuwNpwglL,retail,linkedin.com/company/lain-ópticos,leganés,lain ópticos,community of madrid,1-10,lainopticos.com
+spain,,BpueF4mtVRUwnUEkqoHtBAY5aNzu,retail,linkedin.com/company/farmàcia-craywinckel,barcelona,farmàcia craywinckel,catalonia,1-10,farmaciacraywinckel.cat
+spain,,P8FHLpD82zXhXpoYFyXgsAABPjNH,retail,linkedin.com/company/centro-óptico-mv,santiago de compostela,centro óptico mv,galicia,1-10,centroopticomv.com
+spain,,sS32BnOIoL1SCHYHYEuewAu1xsdj,retail,linkedin.com/company/artisline-sml-iberica-sl,puente-genil,artisline sml iberica sl,andalusia,1-10,
+spain,,3BBIu3Dki8vYIpNAXiA1jg5wrCk2,retail,linkedin.com/company/adral-matriceria-y-puesta-a-punto-sl,bilbao,adral matriceria y puesta a punto sl,basque country,51-200,
+spain,,VO8WgeUyZlkRruUyCtPSwAQ2ZUdA,retail,linkedin.com/company/anamarket.es,lebrija,anamarket.es,andalusia,1-10,anamarket.es
+spain,,Wj2mDkPwTgqWVMFPBTOutwOS1Rnz,retail,linkedin.com/company/yoec-netmedia-sl,barcelona,yoec netmedia sl,catalonia,1-10,
+spain,,TfVY1ioqBJO13Yx8sBNKBwR8p6iV,retail,linkedin.com/company/farmacia-ros,barbastro,farmacia ros,aragon,1-10,lafarmaciaros.com
+spain,,5HGl9xTzy1mTSqQuJhvGBA64nse7,retail,linkedin.com/company/autoline-special-cars-sl,alcobendas,autoline special cars sl,community of madrid,11-50,
+spain,1984,VfB71DQv6y5BYC9S0mpQxQyIkmDd,retail,linkedin.com/company/bicismendiz,vitoria-gasteiz,bicis mendiz,basque country,11-50,
+spain,,4Cc9F77tCHv4cdgCbFfMZAmAY4mV,retail,linkedin.com/company/belicious.es,ourense,belicious.es,galicia,1-10,belicious.es
+spain,,g03Ogp4YSwAec6xZdUBvNQhA4d2F,retail,linkedin.com/company/ribafri,ribadeo,ribafri,galicia,1-10,ribafri.com
+spain,,G9EeHhc32QaKklqGQhPwRgqlcDs7,retail,linkedin.com/company/conde-medica-sl,santa cruz,conde medica sl,canary islands,1-10,
+spain,,zIVwke8BETNIE0MluAjmBQ9cAFkw,retail,linkedin.com/company/joyería-francisco-gonzález,colmenar viejo,joyería francisco gonzález,community of madrid,1-10,
+spain,,tsDWlQzZx3QXCTTgmAaRBARz5lhN,retail,linkedin.com/company/myosotis-art,reus,myosotis art,catalonia,1-10,myosotisartfloral.com
+spain,,MBnW3yI7wZVsBJmdEr3lFAa0bwXk,retail,linkedin.com/company/monumotor-sl,,monumotor sl,,1-10,
+spain,,oIpq6rKH2KLLpyKAvQhrSwHdXDoP,retail,linkedin.com/company/la-vieja-guardia-sl,,la vieja guardia sl,,1-10,
+spain,,3SzT6gCxEKlOg3tcjDGsBgbDTwuQ,retail,linkedin.com/company/v2-gasolineras,torrevieja,v2 gasolineras,valencian community,1-10,v2gasolineras.com
+spain,,2FxxCUgYUPBBlKZkp5Tr2wirL3i3,retail,linkedin.com/company/vivers-borda,castellserá,vivers borda,catalonia,1-10,viversborda.com
+spain,,EcO3BCBSWjT4Nl71nhZUewngS41Q,retail,linkedin.com/company/farmaciagas,vendrell,farmaciagas,catalonia,1-10,farmaciagas.com
+spain,,4IihBEbXSRGWZGEgCfj0IQWGB04v,retail,linkedin.com/company/farmacia-ortopedia,gavá,farmacia ortopedia,catalonia,1-10,farmaciaortopediaescolano.com
+spain,,SDCgRbPeopfGmXOp6BuBvQ7DfMHC,retail,linkedin.com/company/la-guitarra-española,la roda de andalucía,la guitarra española,andalusia,1-10,xn--laguitarraespaola-sxb.es
+spain,,eFrKWIF5FDWg9tdCBPC7kwLqYGmC,retail,linkedin.com/company/la-comarca-de-los-juegos,,la comarca de los juegos,community of madrid,1-10,juegosdemesafinplay.com
+spain,,QJQyMkptqMQUkKFgZlOZlQHrP9pU,retail,linkedin.com/company/servei-estació-sant-jordi,mollet,servei estació sant jordi,catalonia,1-10,serveiestaciosantjordi.com
+spain,,Go1Ly8ne81sZu6I4qKclRQiTWC0Q,retail,linkedin.com/company/pulsan-redes-sl,burgos,pulsan redes sl,castilla and león,1-10,pulsan.es
+spain,,BjJoqJHTKmCUc7CJBDQCAwzDI1qF,retail,linkedin.com/company/romautos,elche,romautos,valencian community,1-10,
+spain,,A0CVJRzxPOfXxHRkuXAuzg19xuxr,retail,linkedin.com/company/vinos-de-zamora,zamora,vinos de zamora,castilla and león,1-10,vinosdezamora.es
+spain,,BIesikl3uuIRWoPZPB9dMQUHrERX,retail,linkedin.com/company/casa-margarit,granollers,casa margarit,catalonia,1-10,casamargarit.com
+spain,,j7ZCICUrId1XVJwXr3y4PwNP2CTh,retail,linkedin.com/company/neumáticos-peláez,burgos,neumáticos peláez,castilla and león,1-10,neumaticospelaez.com
+spain,,9ZG8MrLGthnAKPPvB6QVwQfiSCat,retail,linkedin.com/company/farmacia-piquer,,farmacia piquer,,1-10,farmaciapiquerpiquer.es
+spain,,0Je6TDZGZYKC03rJyJh16ASNqPWs,retail,linkedin.com/company/bodegas-carramimbre,peñafiel,bodegas carramimbre,castilla and león,1-10,carramimbre.com
+spain,,fv4fu4bzoVaiuUsYcJCWBA2EsMEV,retail,linkedin.com/company/hijos-de-muñiz-boiro-sl,boiro,hijos de muñiz boiro sl,galicia,11-50,mueblesmuniz.es
+spain,,sNNB8gGMKfA8ZYl64HqpbAZCNMTV,retail,linkedin.com/company/laboratorio-piñeira-sl,málaga,laboratorio piñeira sl,andalusia,1-10,
+spain,,xKMeSiKa0XBirQVJOb9eLAYkq0VU,retail,linkedin.com/company/general-ganadera-segoviana-sl,segovia,general ganadera segoviana sl,castilla and león,1-10,gegase.es
+spain,,9hrzNx2pMZ9BUofIZ6PMbgk3aD4r,retail,linkedin.com/company/sercoms-empresa-mantenedora-sl,,sercoms empresa mantenedora sl,,11-50,
+spain,,nvarWULOSB6S3EqfrMR0WQBfIEWO,retail,linkedin.com/company/sastrería-barragán,málaga,sastrería barragán,andalusia,1-10,sastreriabarragan.com
+spain,,m8GLfiUDfMNPAtgxcc3iWgWc3cKI,retail,linkedin.com/company/churima,finisterre,churima,galicia,1-10,
+spain,,wWNHNja1x4uioi9Ll8B7qw7x5U7p,retail,linkedin.com/company/grupo-val-optical-sl,la coruña,grupo val optical sl,canary islands,11-50,grupoval.com
+spain,,0U4gEaiMTxX3snr8gf3TfAjirT61,retail,linkedin.com/company/trillas-platja-tamarit-sl,tarragona,trillas platja tamarit sl,catalonia,11-50,
+spain,,8uRTd4O4CVJLJEysOEYyvQKFD2Dj,retail,linkedin.com/company/la-barquillera,,la barquillera,community of madrid,1-10,
+spain,2012,BC84jwTVRhvjXT6PZPAhOwLNwUjO,retail,linkedin.com/company/olio-gourmet,santa cruz,olio gourmet,canary islands,1-10,oliogourmet.com
+spain,,Ted5DjropQWPXnioiVyEqwwW7Q8x,retail,linkedin.com/company/albasur-emplea-sl,priego de córdoba,albasur emplea sl,andalusia,1-10,
+spain,,qP5drIkNjmBKgqZsOlmQHwiDHk14,retail,linkedin.com/company/la-charra,salamanca,la charra,castilla and león,1-10,piscinaslacharra.com
+spain,,Us9uqGwMA9DStSClnCplkQomdyOM,retail,linkedin.com/company/repuestos-adra-sl,,repuestos adra sl,,11-50,
+spain,,IYHbks8o1zwXDLDu6BPkiwIF1BcB,retail,linkedin.com/company/sated-fitness-sl,rivas-vaciamadrid,sated fitness sl,community of madrid,11-50,
+spain,,ugDiCosqaP1d23pYbrdqJwT2O0RR,retail,linkedin.com/company/villamarin-diseño-sl,pontevedra,villamarin diseño sl,galicia,11-50,
+spain,,S50qUzo3CQXl5EuAJYMODwqPAlTA,retail,linkedin.com/company/ansate-telecomunicaciones,canet de mar,ansate telecomunicaciones,catalonia,1-10,ansatetelecomunicaciones.com
+spain,,XUrpfZlna7jtgQipSWYCMQrva8Sj,retail,linkedin.com/company/vixen-vapors,madrid,vixen vapors,community of madrid,11-50,vixenvapors.com
+spain,,Q69PiI5Z7ANOfYkyo4erxg9PW1iL,retail,linkedin.com/company/chimeneas-ecolar,pontevedra,chimeneas ecolar,galicia,1-10,ecolar.es
+spain,,0cq3BSmfXtdcgtQTNbtXewfx3H84,retail,linkedin.com/company/schmaus-gmbh,madrid,schmaus gmbh,community of madrid,1-10,buero-schmaus.de
+spain,,c41CR4zFftFzdeqZLWB0DQQQ8Uhf,retail,linkedin.com/company/cludema-inversions-sl,san cugat del vallés,cludema inversions sl,catalonia,1-10,
+spain,,OK7yWEs6PfVzsPn3qaysiwkbhwTy,retail,linkedin.com/company/grupo-gomegar,molina de segura,grupo gomegar,region of murcia,1-10,grupogomegar.com
+spain,,ispz8l3eszqBee9IBueHAAQYrgaB,retail,linkedin.com/company/restaurant-ramon-tarda-sl,navás,restaurant ramon tarda sl,catalonia,11-50,
+spain,,TIagCY16k7Y37DG3yQaE6A5aYPJA,retail,linkedin.com/company/centre-veterinari-mexico-sl,lleida,centre veterinari mexico sl,catalonia,1-10,centreveterinarimexico.com
+spain,,lupDf4gMdYuVMChH2D0wBQfso4cL,retail,linkedin.com/company/freshmar-aranda-sl,,freshmar aranda sl,,11-50,
+spain,,FCh040F6KlvyJO4OKBVu0AJpTsr2,retail,linkedin.com/company/pepejo-el-labrador,,pepejo el labrador,region of murcia,1-10,pepejolabrador.com
+spain,,YcMcJ8WmReuECNNVsBjFkgxzsCLE,retail,linkedin.com/company/tienda-siyes,navalmoral de la mata,tienda siyes,extremadura,1-10,siyes.es
+spain,2010,Ro154MyqvGx0WdCIdBKeDQsqCS39,retail,linkedin.com/company/office-paper,rocafort,officepaper,valencian community,1-10,officepaper.es
+spain,,6hXenwHG4VDtghbTBphaIwkpPV4a,retail,linkedin.com/company/daily-dollar,madrid,daily dollar,community of madrid,1-10,dailydollar.com
+spain,,CSlwywDOqGIMmxWHRdOh0QHKHfFK,retail,linkedin.com/company/floristería-alhelí-flor,sauzal,floristería alhelí flor,canary islands,1-10,floristeriaalheli.com
+spain,,Yp2hdtgCuqZsTRVvIxJeygf2OnR9,retail,linkedin.com/company/paktelecom,logrono,paktelecom,la rioja,1-10,paktelecom72.com
+spain,2023,lFql8ylefkVxfCv3TisUJgpHyTD2,retail,linkedin.com/company/escopica-valenciana,algimia de alfara,escopica valenciana,valencian community,1-10,escopica.es
+spain,2013,cQCWOyiDC8UC7IV21NFssgHsHXBx,retail,linkedin.com/company/iberlush-ltd,,iberlush ltd,community of madrid,1-10,iberlush.com
+spain,,i2AvEfQynUTbESu6Opo8ogt2yICX,retail,linkedin.com/company/daicarmobel-sl,bell-lloc d'urgell,daicarmobel sl,catalonia,1-10,
+spain,,B82Sjm37B50mYU4m3oxFDwwJIwbR,retail,linkedin.com/company/camiones-gomez-sl,masanasa,camiones gomez sl,valencian community,1-10,camionesgomez.com
+spain,,0dqKljCmHbGg1r6Zx9pQYw0AAj8G,retail,linkedin.com/company/white-widows-sl,villanueva y geltrú,white widows sl,catalonia,11-50,
+spain,,0dGwWaUlQCPfCuXjiHCiWQDnB0NJ,retail,linkedin.com/company/billetes-antiguos,arenas de san pedro,billetes antiguos,castilla and león,1-10,billetesantiguos.es
+spain,,EO0E2svNP3P8RZmW2CYCRwncTTf2,retail,linkedin.com/company/espacio-kitchenclub-sl,la ballesta,espacio kitchenclub sl,andalusia,1-10,
+spain,,VnUdxDcY1uYwibFBfY7C7wSYlnQe,retail,linkedin.com/company/kiloropa,cuenca,kiloropa,castilla-la mancha,1-10,kiloropa.com
+spain,,5IuBVSdufCaybBhCtgFmaA3MkjkF,retail,linkedin.com/company/per-&-gon-automocion-sl,albuñol,per & gon automocion sl,andalusia,1-10,
+spain,,A2OlsSd6TqyGEAk2c38HPQJWJaNp,retail,linkedin.com/company/floristeria-pura,aspe,floristeria pura,valencian community,1-10,floristeriapura.blogspot.com.es
+spain,,MJlWFqAY4XKN3UBB1gmPRQiKMHPU,retail,linkedin.com/company/atleet,bolaños de calatrava,atleet,castilla-la mancha,1-10,atleet.store
+spain,,FVIu2o6PjJI5L9hcKINRUQJ7SHOn,retail,linkedin.com/company/happy-novias,vigo,happy novias,galicia,1-10,happynovias.com
+spain,,xRbxCdQ2Z9Ye7ZFZySCeQgutJBMO,retail,linkedin.com/company/isadora-comillas,torrelavega,isadora comillas,cantabria,1-10,isadoracomillas.com
+spain,,vUtnDSBOm5vbMqsBEqeewAo7NN9J,retail,linkedin.com/company/taller-hispano-sa,,taller hispano sa,,11-50,
+spain,,crosVna7ZbpWJ9qrKVHuhgTyr3kS,retail,linkedin.com/company/motos-uk-racing-2012-sl,campa,motos uk racing 2012 sl,basque country,1-10,
+spain,,iiTEhN3CJqhQ3aUWhNrVHwsXOYdt,retail,linkedin.com/company/olive-racing-service-sl,tarragona,olive racing service sl,catalonia,1-10,
+spain,,S9QRzIPowTI2pYRxXQST3goK02pN,retail,linkedin.com/company/autorecambios-enrique-sl,,autorecambios enrique sl,,1-10,
+spain,,YVNhSqzTUAClcNavs2xIxQ3JI7ml,retail,linkedin.com/company/peixos-j-arrom-sl,barcelona,peixos j arrom sl,catalonia,11-50,peixosjarrom.com
+spain,,97RGGy5yRYCCMDe3VhlsCQK5E7PZ,retail,linkedin.com/company/cooperacion-autogas-sl,,cooperacion autogas sl,community of madrid,1-10,
+spain,,ndtSpzAnNfrs1TMD4Z6KLAytX9b5,retail,linkedin.com/company/horeca-energia-sl,pozuelo de alarcon,horeca energia sl,community of madrid,1-10,horecaenergia.com
+spain,,C4sixrJQLlHaEKlxmBNdTgp2LZT3,retail,linkedin.com/company/muebles-rocio-ramirez-sl,tarragona,muebles rocio ramirez sl,catalonia,11-50,
+spain,,ZqZ5Dp5UV8PlXkjMzvmOWAMCF9bP,retail,linkedin.com/company/hycomb-iberian,la romana,hycomb iberian,valencian community,1-10,hycombiberian.com
+spain,,5Hz3BNi25XJmhPrzCxrA9wPUFeKO,retail,linkedin.com/company/comercial-lolo,campillos,comercial lolo,andalusia,1-10,ventadedisfraces.net
+spain,,U492vbKwkG74OOjlTOSOwgrdfhQy,retail,linkedin.com/company/comercial-carrera,ponteareas,comercial carrera,galicia,1-10,comercialcarrera.com
+spain,,O39Leipu3jTTdqyMucCq4gJhgk3h,retail,linkedin.com/company/luiscar-autorrecambios-sl,valladolid,luiscar autorrecambios sl,castilla and león,11-50,luiscarautorrecambios.com
+spain,,aBQjKOJh7vko1TCMNuJcmAnk14GW,retail,linkedin.com/company/rovira-vic-sa,,rovira vic sa,,1-10,
+spain,,jDlfWPvCYMM0BSDa6MwyKwRBbX6U,retail,linkedin.com/company/vend&mob-sercom-sl,coruña,vend&mob sercom sl,canary islands,1-10,
+spain,,orloB3sBvTUCHxXtv97f1Q83USAu,retail,linkedin.com/company/talleres-salvador-opel,sagunt/sagunto,talleres salvador opel,valencian community,1-10,
+spain,,nDC1S9Wb6Tb5f0ZYmCfmzwcmmtsu,retail,linkedin.com/company/chema-sneakers,pontevedra,chema sneakers,galicia,1-10,chemasneakers.es
+spain,,lg87h9Zaa74fo0n0Gp5pPALHcDcI,retail,linkedin.com/company/martinez-moreno-miguel,elche,martinez moreno miguel,valencian community,1-10,refrigeracionysistemas.com
+spain,,7d2SAqMnNHPfIei6PB2wBA220Fak,retail,linkedin.com/company/mugnificas,barcelona,mugnificas,catalonia,1-10,mugnificas.com
+spain,,H9qdRKnPe4uXCKrPtpmDKAL2hYgH,retail,linkedin.com/company/horus-vape,,horus vape,community of madrid,1-10,horusegipto.es
+spain,,aCPV5BpIxkpCHotxObXoJAGxEHpn,retail,linkedin.com/company/homologaciones-guerrero,tres cantos,homologaciones guerrero,community of madrid,1-10,hguerrero.com
+spain,,rvW7faMnIcMcGDacOhlbrQjFwIJM,retail,linkedin.com/company/la-montaña-mágica-librería,cartagena,la montaña mágica librería,region of murcia,1-10,mdemagica.com
+spain,,2Cd5VXAUoBZB2moRPJQjYAYcGemg,retail,linkedin.com/company/muebles-criado-sl,linares,muebles criado sl,andalusia,11-50,
+spain,,vkq2YV9u6If8wCnGECavmAZ47APa,retail,linkedin.com/company/joan-cortiada,vilafranca del penedes,joan cortiada,catalonia,1-10,joancortiada.com
+spain,,FO6IRcNV5i1iuCUNzZr8hAzspdDc,retail,linkedin.com/company/korycos.com,badajoz,korycos.com,extremadura,1-10,korandcos.com
+spain,,QQV51GrkVhXtljDomorTLQIHKQRf,retail,linkedin.com/company/geodesica-del-sur-geosur-sl,sevilla,geodesica del sur geosur sl,andalusia,11-50,
+spain,,KKPWnahXtQDPWwRS2ZS7IgQmai1N,retail,linkedin.com/company/happy-days-sitges,sitges,happy days sitges,catalonia,1-10,happydayssitges.com
+spain,,BQmaVj1UsBzzUycLB60YZQ5wxrsO,retail,linkedin.com/company/paco-galán,sevilla,paco galán,andalusia,1-10,pacogalan.com
+spain,,OofEzyyNJG1DRe901Yvv7AWGB6ro,retail,linkedin.com/company/auto-recambios-gran-via-sl,cehegín,auto recambios gran via sl,region of murcia,11-50,rgranvia.es
+spain,,HbqAl7rjLio4AnM4tsrCoAYh2OX6,retail,linkedin.com/company/angel-infantes,,angel infantes,,11-50,
+spain,,xspgEesNfhPZrlyctBXCbgpuMi6X,retail,linkedin.com/company/ditram-automocion-sl,san salvador de viaña,ditram automocion sl,catalonia,11-50,
+spain,,wfzTBSv1cBBXfuiPN3q7qwQzMn3J,retail,linkedin.com/company/martin-adarve-sl,torrejón de ardoz,martin adarve sl,community of madrid,1-10,
+spain,2012,GBc7L2Zcb08oLxQo0BTYwgaPEJS4,retail,linkedin.com/company/branderful,,branderful,community of madrid,51-200,branderful.com
+spain,,b6ZAZZmFH0Fj5YsyuvIz6wfDMFjT,retail,linkedin.com/company/automoviles-lorenzo-sl,san bartolome de tirajana,automoviles lorenzo sl,canary islands,1-10,
+spain,,QIAZvvumV78XC6aiLIYHywmZVbsN,retail,linkedin.com/company/ali-bey-nens,barcelona,ali-bey nens,catalonia,1-10,alibeynens.com
+spain,,os8NRT8evmXbUxk6p7FUTw68HHva,retail,linkedin.com/company/farmacia-el-castell,alacuás,farmacia el castell,valencian community,1-10,farmaciaelcastell.com
+spain,,3SsixWLew0IiPAdnKctAjAlKnF9m,retail,linkedin.com/company/heredero-de-crispin,,heredero de crispin,community of madrid,1-10,herederodecrispin.com
+spain,,w91lz06h6Yed2sEtMmhfYwpRWur8,retail,linkedin.com/company/miha-crochet,reus,miha crochet,catalonia,1-10,mihacrochet.com
+spain,1981,h2Zrtl9CmxkUufhv5t3hzQxDh7lu,retail,linkedin.com/company/ismoble,granollers,ismoble · interiorisme i mobiliari,catalonia,1-10,ismoble.com
+spain,,ITr9DOtL3Ihy2rBJhBg7FQLbRaxn,retail,linkedin.com/company/mobles-molins-sl,,mobles molins sl,,1-10,
+spain,,35OSxr8z0N5WhstbPRGqvwr5zy7n,retail,linkedin.com/company/automoviles-de-archipielago-archiauto-sa,santa cruz,automoviles de archipielago archiauto sa,canary islands,51-200,
+spain,2023,mBBA1FAS1zhGPFONBiSGHwq3ALI5,retail,linkedin.com/company/thebathlook,castellón de rugat,thebathlook,valencian community,1-10,thebathlook.com
+spain,,Dmp4M64NeDxjBIEu2N3MyAV0ZAcp,retail,linkedin.com/company/maif-decoracion-sl,ferrol,maif decoracion sl,galicia,11-50,maifdec.com
+spain,,66lo4B6L7bTKO8roV8EijgJ9RU7A,retail,linkedin.com/company/papeleria-moderna-sl,ciudad real,papeleria moderna sl,castilla-la mancha,1-10,
+spain,,4ADvIl8yRFYlKTiCZmFQ9Ahhuu4f,retail,linkedin.com/company/sofass-cordoba-sl,la rambla,sofass cordoba sl,andalusia,1-10,
+spain,,jOuG4vIKe2LHQBx3sWBkZACy1H9i,retail,linkedin.com/company/descanso-integral-sl,,descanso integral sl,,1-10,
+spain,,T7E6lg2GQbWU4K0ycVl9ogfxDepC,retail,linkedin.com/company/sex-love,girona,sex&love,catalonia,1-10,sexilove.es
+spain,,DC0k1NPuSP1R28HT7zuxuwaAbtTP,retail,linkedin.com/company/debaga,sevilla,debaga,andalusia,1-10,debaga.com
+spain,,OUj8h1zYysCz3dhBjBYJgQ6JhjDl,retail,linkedin.com/company/beta-motor-cars-sl,fuenlabrada,beta motor cars sl,community of madrid,1-10,
+spain,2009,YWPOjTNo3ReMjYZefYFeRANvDVti,retail,linkedin.com/company/selecci-n-natural,madrid,selección natural,community of madrid,1-10,seleccionatural.es
+spain,2016,jvGJSbYzJsqcdRBkytufBA6YSg8U,retail,linkedin.com/company/moment-concept-store,elche,moment concept store,valencian community,1-10,momentconceptstore.es
+spain,,u1etO3YP0Ql8NhSbeXTsfAmuLCvg,retail,linkedin.com/company/centro-comercial-gran-plaza-2,majadahonda,centro comercial gran plaza 2,community of madrid,1-10,centrocomercialgranplaza2.com
+spain,,vMCxUa9QdYSroWVzdhCiDAPDYl8d,retail,linkedin.com/company/oinberri-zapateria,barakaldo,oinberri zapateria,basque country,1-10,zapatosoinberri.com
+spain,2017,csbqe5rn5xG4CoCEocBbmQmi2hD9,retail,linkedin.com/company/winhome-cerramientos,humanes de madrid,winhome cerramientos,community of madrid,1-10,winhome.es
+spain,,kcHgnqpsdc3DZhhCJcKKxgq6bTN4,retail,linkedin.com/company/vic-comerç,vich,vic comerç,catalonia,1-10,viccomerc.cat
+spain,1994,CBxBeUwdvk4RzjRwmRdC6wg4D4K9,retail,linkedin.com/company/accesorios-y-elevadores-valencia-sl,puçol,accesorios y elevadores valencia sl,valencian community,11-50,acceval.com
+spain,,M4AjglVvvscuByCpVfeY1AA4XM55,retail,linkedin.com/company/siempre-bella-boutique,madrid,siempre bella boutique,community of madrid,1-10,siemprebellaboutique.com
+spain,,LrzqL96VQsD97McTsBme2wdA5L3B,retail,linkedin.com/company/bebes-prenacer-sl,alicante,bebes prenacer sl,valencian community,11-50,bebesprenacer.com
+spain,,gA2Ixv6WJ4n9GHJZGB8atgbKVKtK,retail,linkedin.com/company/ab-abellan-sl,cieza,ab abellan sl,region of murcia,11-50,ababellan.com
+spain,,CZJJnYm3ZXzRZlTK8uugyA9FRlRv,retail,linkedin.com/company/mimpor-2004-sl,vigo,mimpor 2004 sl,galicia,1-10,mimpor.com
+spain,,37uyhTSURZ9CID43oHJtOAw7iufD,retail,linkedin.com/company/cocinas-gonzaga,camas,cocinas gonzaga,andalusia,1-10,cocinasgonzaga.com
+spain,,mRJ80Itz4ccSiBCSExqbLAze1eCZ,retail,linkedin.com/company/lubricante,logrono,lubricante,la rioja,1-10,lubricantesenoferta.es
+spain,2014,oaZnt1eQTUjTV6Fmsw0SVQ2f6Otl,retail,linkedin.com/company/kaaten-style,santiago de compostela,kaaten,galicia,11-50,kaaten.com
+spain,,VlCYgv7R5rQmDo2EGHSKpQmTNEpC,retail,linkedin.com/company/keraben-tiendas,jaen,keraben tiendas,andalusia,1-10,
+spain,,yuZcZjLRJ9Rjj0K6QVhxugMx6Mmr,retail,linkedin.com/company/farmacia-montoto,malpica,farmacia montoto,galicia,1-10,farmaciamontoto.com
+spain,,CB6QmX6vmQ9PR1n9jhXnUwrtrKbG,retail,linkedin.com/company/children-1964-sl,madrid,children 1964 sl,community of madrid,11-50,
+spain,,SjkFtiRdsV9kkABAzEmBCQbVP84U,retail,linkedin.com/company/dentapal-sl,,dentapal sl,community of madrid,1-10,
+spain,,rwZdBWJ2qly9NG60M9A70gujbZW4,retail,linkedin.com/company/soto-recambios-sl,palencia,soto recambios sl,castilla and león,1-10,sotorecambios.es
+spain,,3Nf2XQTnSDsPtSXFCTPi7wONZTvO,retail,linkedin.com/company/patrimonial-raices-sl,santiago de compostela,patrimonial raices sl,galicia,11-50,
+spain,1930,pg7isNkdBVbDNXIsTffh2wBKnnDq,retail,linkedin.com/company/optica-morato,barcelona,óptica morató,catalonia,1-10,opticamorato.com
+spain,,7i1pBcj74Ty4J4KWfIZ8HwgsNmOu,retail,linkedin.com/company/grupo-bubicool-sl,almería,grupo bubicool sl,andalusia,1-10,
+spain,,Onoh4LD8NCBeAJSFhEeDew8fO6Ut,retail,linkedin.com/company/reixach-campanyà,barcelona,reixach campanyà,catalonia,1-10,
+spain,,mElPCmEO7HerleEmFg0nVwz6fgpD,retail,linkedin.com/company/style-tuning,santa cruz,style tuning,canary islands,1-10,tecnologiadelautomovil.com
+spain,,fARGmOpJw2ttIh7tX4BBGg4DYQNA,retail,linkedin.com/company/comercial-domlez,sevilla,comercial domlez,andalusia,1-10,
+spain,,O25XOsufZ4CjdOgKQBxNPAhGi3Xb,retail,linkedin.com/company/tilt-arritmico-sl,universitat illes balears,tilt arritmico sl,balearic islands,11-50,tilt.es
+spain,,ZPd2URW2X3MyCBhBMH7o6Qxg9XgP,retail,linkedin.com/company/montegar-e-hijos-sl,humanes de madrid,montegar e hijos sl,community of madrid,11-50,
+spain,,Y9jw3XTMzE8O3sQOLVwJugHq40RU,retail,linkedin.com/company/a-tartaruga-laranxa-sl,lugo,a tartaruga laranxa sl,galicia,11-50,
+spain,2015,aRoFLvVw8o0JreMYrNVsgg8Ln5eU,retail,linkedin.com/company/laboratorio-digital-high-teeth-sl,granollers,laboratorio digital high teeth sl,catalonia,51-200,rockteeth.com
+spain,,v0R2WJY3EsVr6IYRf9eXFwanWChB,retail,linkedin.com/company/day-nautic-sl,barcelona,day nautic sl,catalonia,11-50,
+spain,,m0LVYQcRfNznc9pw7N5Y2gn4IgGk,retail,linkedin.com/company/camping-de-ruiloba-sa,,camping de ruiloba sa,,11-50,
+spain,,TMBe2mL23NzLpGH3LikMlAimaq5p,retail,linkedin.com/company/neumáticos-serrano,huelva,neumáticos serrano,andalusia,1-10,neumaticosserrano.com
+spain,,CrEpvdNizbfDR1EUMOsTAw72N44p,retail,linkedin.com/company/offishop,maspalomas,offishop,canary islands,1-10,offishop.es
+spain,,bAQB318QrstB2J3n5yE0TAEXlXbh,retail,linkedin.com/company/asador-de-pollos-la-granja-sl,,asador de pollos la granja sl,,11-50,
+spain,,PX3HfdfAc5S9YuRv90aQgQr6f7je,retail,linkedin.com/company/reparacion-y-venta-autos-sant-lluis-sl,universitat illes balears,reparacion y venta autos sant lluis sl,balearic islands,1-10,
+spain,,oj2xuBJBohOQvYxZIp3eUA773QYk,retail,linkedin.com/company/arsaez-sl,cerdanyola del valles,arsaez sl,catalonia,11-50,
+spain,,IIi0xPQtoFazT8Bs0YopUAlNsxSX,retail,linkedin.com/company/presumere-sl,madrid,presumere sl,community of madrid,11-50,
+spain,,aSBuEjvqDXeUXmDZsprYAwBTQwqZ,retail,linkedin.com/company/campestur-sl,los escullos,campestur sl,andalusia,11-50,losescullossanjose.com
+spain,,1zzCdlTaYifVJI1Mios6dAlegTpg,retail,linkedin.com/company/auto-repuestos-pampanas-sl,,auto repuestos pampanas sl,community of madrid,11-50,pampanas.es
+spain,,AGMBCMmj3B2TMPesTKrBLAUNaOs1,retail,linkedin.com/company/teoyleo,zaragoza,teoyleo,aragon,1-10,teoyleo.com
